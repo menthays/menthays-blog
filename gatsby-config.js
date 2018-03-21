@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://menthays.netlify.io',
+    url: 'https://menthays.netlify.com',
     title: 'Menthays\' Blog',
     subtitle: 'Constructing...',
     copyright: '© All rights reserved.',
