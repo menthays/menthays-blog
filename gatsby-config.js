@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://menthays.github.io',
+    url: 'https://menthays.netlify.io',
     title: 'Menthays\' Blog',
     subtitle: 'Constructing...',
     copyright: '© All rights reserved.',
@@ -117,7 +117,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-73379983-2' }
+      options: { trackingId: 'UA-115828004-1' }
     },
     {
       resolve: `gatsby-plugin-google-fonts`,
