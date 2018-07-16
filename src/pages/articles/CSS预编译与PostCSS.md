@@ -1,6 +1,6 @@
 ---
 title: CSS预编译与PostCSS简介
-date: "2018-06-23T9:25:20.002Z"
+date: "2018-06-23"
 layout: post
 draft: false
 path: "/posts/css-preprocessor-and-postcss"

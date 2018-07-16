@@ -1,6 +1,6 @@
 ---
 title: Babel常用选项说明
-date: "2018-06-23T8:13:10.002Z"
+date: "2018-06-23"
 layout: post
 draft: false
 path: "/posts/babel-option-introduction"
