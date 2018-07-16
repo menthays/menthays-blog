@@ -4,7 +4,6 @@ date: "2018-03-17T05:09:59.811Z"
 layout: post
 draft: false
 path: "/posts/decorate-event-emitter"
-category: "FrontEnd"
 tags:
 - "inherit"
 - "prototype"

@@ -4,7 +4,6 @@ date: "2017-07-01T22:40:32.169Z"
 layout: post
 draft: false
 path: "/posts/getting-started-with-webpack/"
-category: "FrontEnd"
 tags:
   - "scaffold"
   - "webpack"

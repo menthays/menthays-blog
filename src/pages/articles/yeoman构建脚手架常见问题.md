@@ -36,3 +36,6 @@ description: "yeoman构建脚手架遇到的一些常见问题和解决方式的
 	
 4. 快速调试？
 	用 npm link 将整个 generator link 到全局 node_modules，然后直接执行 yo 命令体验交互过程和生成的项目
+
+5. .babelrc .eslintrc文件没有生成？ 
+	发布到npm的过程中这些文件被默认忽略，目前我的做法是改名成 babelrc 然后在 copy 的过程中改名为.babelrc

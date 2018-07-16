@@ -4,7 +4,6 @@ date: "2018-03-15T22:40:32.169Z"
 layout: post
 draft: false
 path: "/posts/mobx-quick-start"
-category: "Quick Start"
 tags:
 - "react"
 - "mobx"

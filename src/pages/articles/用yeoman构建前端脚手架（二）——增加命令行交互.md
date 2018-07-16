@@ -4,7 +4,6 @@ date: "2018-03-04T22:40:32.169Z"
 layout: post
 draft: false
 path: "/posts/building-scaffolds-with-yeoman-2"
-category: "FrontEnd"
 tags:
   - "yeoman"
   - "scaffold"
