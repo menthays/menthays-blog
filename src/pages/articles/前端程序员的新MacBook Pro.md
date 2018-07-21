@@ -58,11 +58,11 @@ description: "记录拿到新 MacBook Pro 需要安装的一些常用软件/工�
 - safari: adblock 
 
 ##Config should be known
-- git config --global http.proxy 'http://127.0.0.1:1087' 
-- git config --global https.proxy 'http://127.0.0.1:1087'
+- git config \-\-global http.proxy "http://127.0.0.1:1087" 
+- git config \-\-global https.proxy "http://127.0.0.1:1087"
 - export http_proxy=http://127.0.0.1:1087
 - export https_proxy=http://127.0.0.1:1087
-- npm config registry/http_proxy/https_proxy
+- npm config registry/http\_proxy/https\_proxy
 - npm config set registry https://registry.npm.taobao.org
 
 ##Personal 
